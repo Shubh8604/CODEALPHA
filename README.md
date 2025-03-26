@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shubh Udhani</h1>
 <h3 align="center">Currently Pursuing BScIT From GLS University</h3>
 
-- 🔭 I’m currently working on **CODEALPHA Internship**
+- 🔭 I’m currently pursuing**BSc.IT**
 
 - 📫 How to reach me **shubhudhani8604@gmail.com**
 
